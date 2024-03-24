@@ -4,7 +4,7 @@
 ## 專案畫面
 
 ![image](https://github.com/pierceshih15/restaurantList/blob/master/public/img/homePage.png)
-![image](https://github.com/syh053/restaurants/blob/main/image/index.png)
+![image](https://github.com/syh053/restaurants/blob/main/image/detail.png)
 
 
 ## 產品功能
