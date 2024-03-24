@@ -33,7 +33,7 @@ npm install express-handlebars
 ```
 ___
 
-3. 安裝 nodemon 套件
+3. 安裝 nodemon 套件(全局安裝)
 
 ```
 npm install -g nodemon
