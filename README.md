@@ -39,8 +39,17 @@ ___
 ```
 npm install -g nodemon
 ```
+___
 
 4. 設置 package.json 檔案
 
 ![image](https://github.com/syh053/restaurants/blob/main/image/setting%20package.png)
+
+___
+
+5. 啟動方式
+
+ ```
+npm run dev
+```
 
