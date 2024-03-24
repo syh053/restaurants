@@ -14,7 +14,7 @@
 2. 查看餐廳個別內容
 
 
-## How to installing 
+## How To Use
 
 1. 開啟終端機，Clone 此專案至本機電腦
 
